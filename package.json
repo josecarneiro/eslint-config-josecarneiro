@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-josecarneiro",
+  "version": "0.0.1",
+  "description": "José Carneiro's eslint standard config",
+  "main": "index.js",
+  "author": {
+    "name": "José Carneiro",
+    "email": "contact@josecarnei.ro",
+    "url": "https://josecarnei.ro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josecarneiro/eslint-config-josecarneiro.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-node": "^5.0.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "peerDependencies": {
+    "eslint": ">=3.19.0"
+  }
+}
