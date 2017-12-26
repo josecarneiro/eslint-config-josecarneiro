@@ -17,7 +17,7 @@ module.exports = {
     'eol-last': [ 1, 'always' ],
     'indent': [ 1, 2, { 'MemberExpression': 0, 'SwitchCase': 1 }],
     'no-console': 0,
-    'no-extra-parens': [ 1, 'all' ]
+    'no-extra-parens': [ 1, 'all' ],
     'no-var': 2,
     'no-undef': 1,
     'no-unused-vars': [ 1, { 'vars': 'all', 'args': 'after-used' } ],
